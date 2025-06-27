@@ -1,8 +1,8 @@
 # CompTIA Security+ (SY0-701)
 
 > Apuntes organizados por objetivo oficial del examen SY0-701  
-> Versión: 2023+
-> Idioma de estudio: Inglés
+> Versión: 2023+  
+> Idioma de estudio: Inglés  
 
 ---
 
